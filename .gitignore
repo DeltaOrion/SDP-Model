@@ -1,0 +1,16 @@
+﻿data/
+dataset/
+sample-dataset/
+best_model.pth
+__pycache__/
+.idea/
+*.pt
+attempt-*/
+*.joblib
+*.pkl
+*.csv
+unseen/
+stat-test/
+*.pth
+stat-test/
+hand-data/
